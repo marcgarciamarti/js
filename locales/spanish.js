@@ -1,10 +1,10 @@
 if(!window.locales) window.locales = {};
 locales.XX = {	// NOTE: change XX to the two-letter language code
-    "Accept": "",
-    "Add": "",
-    "Add a new note": "",
-    "Add a persona": "",
-    "Add invite": "",
+    "Aceptar": "",
+    "Añadir": "",
+    "Añadir nota nueva": "",
+    "Añadir una persona": "",
+    "Añadir invitación": "",
     "Adding/editing personas requires a connection to the Turtl server.": "",
     "Add invite": "",
     "Admin": "",
